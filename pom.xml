@@ -177,7 +177,6 @@
 		</dependency>
     </dependencies>
      <build>
-      <reporting>
         <plugins>
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
@@ -230,6 +229,5 @@
           </reportSets>
         </plugin>
       </plugins>
-    </reporting>
     </build>
 </project>
